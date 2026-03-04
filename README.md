@@ -1,6 +1,9 @@
-# DeepLense — GSoC 2026 | ML4Sci Submission
+# DeepLense — GSoC 2026 | ML4Sci Submission 
+
 **Candidate:** Sarthak Jagota
+
 **GitHub:** https://github.com/SarthakJagota
+
 **Email:** sarthakjagota34@gmail.com
 
 ---
