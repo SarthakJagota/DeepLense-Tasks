@@ -1,5 +1,5 @@
-**GSoC 2026 Proposal:** [Vision Foundation Model for Gravitational Lensing](#)
 # DeepLense — GSoC 2026 | ML4Sci Submission 
+**GSoC 2026 Proposal:** [Vision Foundation Model for Gravitational Lensing]
 
 **Candidate:** Sarthak Jagota
 
